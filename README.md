@@ -1,0 +1,1 @@
+# revel-mgo-app
